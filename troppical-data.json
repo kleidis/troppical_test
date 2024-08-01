@@ -13,7 +13,7 @@
   },
   {
     "emulator_name": "Panda3DS",
-    "emulator_logo": "https://i.postimg.cc/VNcy4MMP/Alber.phttps://github.com/kleidis/test/blob/301ce8034ff2de64fa9940fcd1a05a34dd7600b9/assets/placeholder.pngng",
+    "emulator_logo": "https://github.com/kleidis/test/blob/301ce8034ff2de64fa9940fcd1a05a34dd7600b9/assets/placeholder.pngng",
     "emulator_desc": "Panda3DS is a HLE 3DS emulator",
     "emulator_owner": "wheremyfoodat",
     "emulator_repo": "Panda3DS",
