@@ -48,18 +48,6 @@
     "exe_path": "mandarine-qt.exe"
   },
   {
-    "emulator_name": "Sudachi",
-    "emulator_logo": "https://raw.githubusercontent.com/kleidis/test/301ce8034ff2de64fa9940fcd1a05a34dd7600b9/assets/yuzu.png",
-    "emulator_desc": "Sudachi is a Nintendo Switch emulator for Android, Linux, macOS and Windows, written in C++",
-    "emulator_owner": "sudachi-emu",
-    "emulator_repo": "sudachi",
-    "emulator_artifact_name": "sudachi-ea-release.apk",
-    "emulator_platform": "multi",
-    "emulator_package": "org.sudachi.sudachi_emu.ea",
-    "emulator_system": "Switch",
-    "exe_path": "Sudachi.exe"
-  },
-  {
     "emulator_name": "SkyEmu",
     "emulator_logo": "https://raw.githubusercontent.com/kleidis/test/301ce8034ff2de64fa9940fcd1a05a34dd7600b9/assets/skyemu.png",
     "emulator_desc": "Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator",
